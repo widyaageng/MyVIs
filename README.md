@@ -16,4 +16,4 @@ Need following drivers:
 - 13. Pickering 41
 - 14. Labview 2016
 - 15. NI DMM 16.0
-- Other default or included during installation of Labview 2016
+- Other default or included NI packages during installation of Labview 2016
